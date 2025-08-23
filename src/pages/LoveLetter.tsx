@@ -1,7 +1,7 @@
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
 import { useNavigate } from 'react-router-dom';
-import { ArrowLeft, Heart, Sparkles } from 'lucide-react';
+import { ArrowLeft, Heart } from 'lucide-react';
 import heroBackground from '@/assets/hero-background.jpg';
 
 const LoveLetter = () => {
@@ -43,7 +43,7 @@ const LoveLetter = () => {
 
             <div className="prose prose-lg max-w-none space-y-6 text-foreground">
               <p className="text-xl leading-relaxed font-light">
-                My Dearest Tiya,
+                My Dearest Love,
               </p>
 
               <p className="leading-relaxed">
@@ -67,7 +67,7 @@ const LoveLetter = () => {
               </p>
 
               <p className="leading-relaxed">
-                Thank you for loving me so completely, for accepting all of me – the good, the silly, and the imperfect. Thank you for being the most incredible girlfriend, partner, and best friend I could ever ask for, Tiya.
+                Thank you for loving me so completely, for accepting all of me – the good, the silly, and the imperfect. Thank you for being the most incredible girlfriend, partner, and best friend I could ever ask for.
               </p>
 
               <p className="leading-relaxed">
@@ -76,15 +76,14 @@ const LoveLetter = () => {
 
               <p className="text-xl leading-relaxed font-light mt-8 text-primary">
                 Forever and always yours,<br />
-                Your loving boyfriend who adores you, Tiya ❤️
+                Your loving boyfriend ❤️
               </p>
             </div>
 
             <div className="text-center mt-12">
               <div className="animate-glow inline-block">
-                <Sparkles className="w-8 h-8 mx-auto text-primary animate-spin mb-4" />
                 <p className="text-2xl font-bold text-gradient">
-                  Happy Anniversary, Beautiful Tiya! 💕
+                  Happy Anniversary, My Love 💕
                 </p>
               </div>
             </div>
