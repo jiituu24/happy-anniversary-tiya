@@ -67,7 +67,7 @@ const Timeline = () => {
             Our Love Story Timeline
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Every moment with you has been a chapter in our beautiful love story
+            Every moment with you has been a chapter in our beautiful love story, Tiya
           </p>
         </div>
 

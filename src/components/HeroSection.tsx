@@ -24,7 +24,7 @@ const HeroSection = () => {
           Happy 1 Year Anniversary
         </h1>
         <p className="text-3xl md:text-4xl mb-8 animate-fade-in-up text-primary font-playfair" style={{ animationDelay: '0.3s' }}>
-          My Love ❤️
+          Tiya, My Love ❤️
         </p>
         <p className="text-xl md:text-2xl mb-12 animate-fade-in-up text-muted-foreground max-w-2xl mx-auto font-inter" style={{ animationDelay: '0.6s' }}>
           365 days of love, laughter, and countless beautiful memories together

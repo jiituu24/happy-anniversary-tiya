@@ -45,7 +45,7 @@ const FloatingHearts = () => {
             className="w-full h-full bg-contain bg-no-repeat bg-center animate-heart-beat"
             style={{
               backgroundImage: `url(${floatingHeartsImage})`,
-              filter: 'hue-rotate(15deg) saturate(1.2)',
+              filter: 'hue-rotate(25deg) saturate(1.1) brightness(1.1)',
             }}
           />
         </div>

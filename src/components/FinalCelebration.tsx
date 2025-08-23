@@ -15,7 +15,7 @@ const FinalCelebration = () => {
   }, []);
 
   const createFirework = (index: number) => {
-    const colors = ['#FFB6C1', '#DDA0DD', '#FFC0CB', '#E6E6FA', '#FF69B4'];
+    const colors = ['#E6A67A', '#D4A574', '#B8956A', '#E8B4B8', '#D4A87C'];
     const randomColor = colors[Math.floor(Math.random() * colors.length)];
     
     return (
@@ -52,7 +52,7 @@ const FinalCelebration = () => {
               left: `${Math.random() * 100}%`,
               top: `${Math.random() * 100}%`,
               animationDelay: `${Math.random() * 6}s`,
-              color: '#FFB6C1'
+              color: '#E6A67A'
             }}
           >
             ❤️
@@ -69,13 +69,13 @@ const FinalCelebration = () => {
             ❤️
           </div>
           <p className="text-2xl md:text-3xl mb-12 text-primary font-playfair">
-            "In a sea of people, my eyes will always search for you"
+            "In a sea of people, my eyes will always search for you, Tiya"
           </p>
         </div>
 
         <div className="animate-fade-in-up space-y-6" style={{ animationDelay: '1s' }}>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Every love story is beautiful, but ours is my favorite
+            Every love story is beautiful, but ours is my favorite, Tiya
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center mt-8">
@@ -99,7 +99,7 @@ const FinalCelebration = () => {
 
         <div className="mt-16 animate-fade-in-up" style={{ animationDelay: '2s' }}>
           <p className="text-lg text-muted-foreground italic">
-            "Thank you for being my today and all of my tomorrows" 💖
+            "Thank you for being my today and all of my tomorrows, beautiful Tiya" 💖
           </p>
         </div>
       </div>
