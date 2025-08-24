@@ -28,10 +28,10 @@ const questions: Question[] = [
     options: [
       "Goa",
       "Shimla",
-      "Sonbhadra",
-      "Manali"
+      "Manali",
+      "Sonbhadra"
     ],
-    correctAnswer: 2
+    correctAnswer: 3
   },
   {
     question: "What was the date Tiya got her college?",
@@ -46,22 +46,22 @@ const questions: Question[] = [
   {
     question: "Which subject Quiz was it Jiituu went to attempt while Tiya was leaving?",
     options: [
+      "MA101",
       "CS101",
       "PH101",
-      "MA101",
       "EE101"
     ],
-    correctAnswer: 2
+    correctAnswer: 0
   },
   {
     question: "What was the time Jiituu saw Tiya for the last time in Varanasi?",
     options: [
       "6:15 26 Sept 2024",
       "6:20 26 Sept 2024",
-      "6:17 26 Sept 2024",
-      "6:10 26 Sept 2024"
+      "6:10 26 Sept 2024",
+      "6:17 26 Sept 2024"
     ],
-    correctAnswer: 2
+    correctAnswer: 3
   },
   {
     question: "What does Jiituu call her?",
