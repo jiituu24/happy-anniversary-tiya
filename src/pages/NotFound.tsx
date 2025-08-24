@@ -47,27 +47,7 @@ const LoveLetter = () => {
               </p>
 
               <p>
-                I still remember the very first day I came to meet you.  
-                That single step changed everything. Since then, every time I’ve seen you, I’ve carried just one thought in my heart: <span className="font-semibold italic">“How did I get someone so beautiful, so perfect, so mine?”</span>
-              </p>
-
-              <p>
-                From that day till now, I’ve met you again and again, and every meeting felt like a blessing written only for me. Each time I leave, I just know one truth—<span className="underline decoration-pink-500">you are my soulmate</span>.
-              </p>
-
-              <p>
-                Yes, we fight. Yes, we argue. But at the end of the day, we never give up on each other.  
-                Because perfection doesn’t exist—love is about reshaping ourselves again and again, fitting into each other’s worlds, and still choosing to stay. And for me, leaving you has never been, and will never be, an option.
-              </p>
-
-              <p>
-                You care for me like my mother, you stand with me in my career, you hold me strong in my weak moments.  
-                You are my safe place, my best friend, my constant. What else could an “ideal person” even mean, if not you?
-              </p>
-
-              <p>
-                My love, my heart, my everything—you are already the best.  
-                And if I had to live a thousand lives, I would still find you in each one.
+                I Love babe, I still remember the 1st day 8i came to meet you. That day changed everything. till then whenever I've seen you, i just think "How did i get you, So perfect, cute hot and my type". From that time i have visited you many times, and everytime felt like you're a blessing for me. Each time i leave i just know one thing that u r mine. Yes, we fight (infact last 2 days ka jaan k kia tha), we argue, But at the end of the day, we never give up on each other. i heard perfection doesn't exist - But then i met you. Love is about reshaping again and again, fitting into each other's worlds, and still choosing to stay. and for me, leaving you has never been, and will never be, an option. you care for me like my mother, you stand with me in my career, you hold me strong in my weak moments. You are my safe place, my best friend, My soulmate, ,you're my constant. You're my ideal person. My love, my heart my everything-you are already the best. And if i had to live a thousand lives, I would still find you in each one.
               </p>
 
               <p className="text-2xl mt-8 text-primary font-extrabold font-serif tracking-wide">
@@ -79,7 +59,7 @@ const LoveLetter = () => {
             <div className="text-center mt-12">
               <div className="animate-glow inline-block">
                 <p className="text-3xl font-bold bg-gradient-to-r from-red-500 via-pink-500 to-purple-500 bg-clip-text text-transparent drop-shadow-md">
-                  You Are Mine Always 💕
+                  You Are Always Mine My Love 💕
                 </p>
               </div>
             </div>
