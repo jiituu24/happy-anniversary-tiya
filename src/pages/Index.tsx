@@ -9,8 +9,8 @@ const Index = () => {
     <div className="relative overflow-x-hidden">
       <FloatingHearts />
       <HeroSection />
-      <PhotoGallery />
       <Timeline />
+      <PhotoGallery />
       <FinalCelebration />
     </div>
   );

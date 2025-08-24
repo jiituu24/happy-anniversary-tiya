@@ -29,61 +29,57 @@ const LoveLetter = () => {
           Back to Our Story
         </Button>
 
-        <Card className="card-romantic animate-fade-in-up">
+        <Card className="card-romantic animate-fade-in-up shadow-2xl rounded-2xl">
           <CardContent className="p-12">
             <div className="text-center mb-12">
               <Heart className="w-16 h-16 mx-auto mb-6 text-primary animate-heart-beat" />
-              <h1 className="text-4xl md:text-5xl font-bold mb-4 text-gradient">
-                A Letter From My Heart
+              <h1 className="text-5xl md:text-6xl font-extrabold mb-4 bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 bg-clip-text text-transparent tracking-wide font-serif">
+                A Letter From My Soul
               </h1>
-              <p className="text-lg text-muted-foreground">
-                Written with all my love on our special day
+              <p className="text-lg italic text-muted-foreground">
+                Words may fall short, but my love never will
               </p>
             </div>
 
-            <div className="prose prose-lg max-w-none space-y-6 text-foreground">
-              <p className="text-xl leading-relaxed font-light">
-                My Dearest Love,
+            <div className="prose prose-lg max-w-none space-y-6 text-foreground font-light leading-relaxed">
+              <p className="text-xl font-semibold tracking-wide">
+                My Forever,
               </p>
 
-              <p className="leading-relaxed">
-                As I sit here writing this letter, my heart is overflowing with so much love for you that words seem inadequate. One year ago, you walked into my life and changed everything. You turned my ordinary days into extraordinary adventures and filled my world with colors I never knew existed.
+              <p>
+                I still remember the very first day I came to meet you.  
+                That single step changed everything. Since then, every time I’ve seen you, I’ve carried just one thought in my heart: <span className="font-semibold italic">“How did I get someone so beautiful, so perfect, so mine?”</span>
               </p>
 
-              <p className="leading-relaxed">
-                Every morning I wake up grateful for another day to love you. Your smile is my favorite sunrise, your laughter is my favorite melody, and your love is my favorite blessing. You've taught me that home isn't a place – it's the feeling I get when I'm with you.
+              <p>
+                From that day till now, I’ve met you again and again, and every meeting felt like a blessing written only for me. Each time I leave, I just know one truth—<span className="underline decoration-pink-500">you are my soulmate</span>.
               </p>
 
-              <p className="leading-relaxed">
-                I love the way you scrunch your nose when you laugh, how you always steal my hoodies (and look incredibly cute in them), and how you make even the simplest moments feel magical. I love your kind heart, your brilliant mind, and the way you believe in me even when I don't believe in myself.
+              <p>
+                Yes, we fight. Yes, we argue. But at the end of the day, we never give up on each other.  
+                Because perfection doesn’t exist—love is about reshaping ourselves again and again, fitting into each other’s worlds, and still choosing to stay. And for me, leaving you has never been, and will never be, an option.
               </p>
 
-              <p className="leading-relaxed">
-                This past year has been the most beautiful chapter of my life. Through every joy, every challenge, every quiet moment, and every exciting adventure, you've been my constant. You've been my partner, my best friend, my safe place, and my greatest love.
+              <p>
+                You care for me like my mother, you stand with me in my career, you hold me strong in my weak moments.  
+                You are my safe place, my best friend, my constant. What else could an “ideal person” even mean, if not you?
               </p>
 
-              <p className="leading-relaxed">
-                I promise to love you through all the seasons of our life together. I promise to hold your hand through every storm and dance with you in every ray of sunshine. I promise to choose you, every single day, for all the days of my life.
+              <p>
+                My love, my heart, my everything—you are already the best.  
+                And if I had to live a thousand lives, I would still find you in each one.
               </p>
 
-              <p className="leading-relaxed">
-                Thank you for loving me so completely, for accepting all of me – the good, the silly, and the imperfect. Thank you for being the most incredible girlfriend, partner, and best friend I could ever ask for.
-              </p>
-
-              <p className="leading-relaxed">
-                Here's to our first year, and to all the beautiful years ahead of us. I can't wait to create more memories, share more dreams, and fall even deeper in love with you.
-              </p>
-
-              <p className="text-xl leading-relaxed font-light mt-8 text-primary">
-                Forever and always yours,<br />
-                Your loving boyfriend ❤️
+              <p className="text-2xl mt-8 text-primary font-extrabold font-serif tracking-wide">
+                Always yours,<br />
+                The one who got lucky enough to love you ❤️
               </p>
             </div>
 
             <div className="text-center mt-12">
               <div className="animate-glow inline-block">
-                <p className="text-2xl font-bold text-gradient">
-                  Happy Anniversary, My Love 💕
+                <p className="text-3xl font-bold bg-gradient-to-r from-red-500 via-pink-500 to-purple-500 bg-clip-text text-transparent drop-shadow-md">
+                  You Are Mine Always 💕
                 </p>
               </div>
             </div>

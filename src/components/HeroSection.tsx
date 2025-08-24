@@ -20,15 +20,21 @@ const HeroSection = () => {
       <div className="absolute inset-0 bg-gradient-to-b from-background/20 via-background/40 to-background/60" />
       
       <div className="relative z-20 text-center max-w-4xl mx-auto px-6">
-        <h1 className="text-6xl md:text-8xl font-bold mb-6 animate-fade-in-up text-gradient">
+       <h1 className="text-8xl md:text-8xl font-romantic mb-6 animate-fade-in-up text-pink-500 drop-shadow-lg">
           Happy 1 Year Anniversary
-        </h1>
-        <p className="text-3xl md:text-4xl mb-8 animate-fade-in-up text-primary font-playfair" style={{ animationDelay: '0.3s' }}>
-          My Love ❤️
-        </p>
-        <p className="text-xl md:text-2xl mb-12 animate-fade-in-up text-muted-foreground max-w-2xl mx-auto font-inter" style={{ animationDelay: '0.6s' }}>
-          365 days of love, laughter, and countless beautiful memories together
-        </p>
+      </h1>
+
+    <p className="text-3xl md:text-4xl mb-8 animate-fade-in-up font-elegant text-rose-400 drop-shadow-lg" style={{ animationDelay: '0.3s' }}>
+      My Love ❤️
+    </p>
+
+<p 
+  className="text-xl md:text-2xl mb-12 animate-fade-in-up font-elegant text-white drop-shadow-lg max-w-2xl mx-auto"
+  style={{ animationDelay: '0.6s' }}
+>
+  365 days of love, laughter, and countless beautiful memories together
+</p>
+
         
         <div className="flex flex-col sm:flex-row gap-6 justify-center animate-fade-in-up" style={{ animationDelay: '0.9s' }}>
           <Button 
