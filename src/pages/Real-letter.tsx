@@ -4,6 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import { ArrowLeft, Heart } from 'lucide-react';
 import heroBackground from '@/assets/hero-background.jpg';
 
+
 const LoveLetter = () => {
   const navigate = useNavigate();
 
