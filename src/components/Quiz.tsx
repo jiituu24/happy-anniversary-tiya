@@ -136,7 +136,7 @@ export default function Quiz({ onComplete, onBack }: QuizProps) {
             {passed ? (
               <div>
                 <p className="text-rose-600 mb-6">
-                  You've proven your love and unlocked the letter! 💕
+                  You've proven It and unlocked the letter! 💕
                 </p>
                 <button
                   onClick={onComplete}
