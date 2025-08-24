@@ -17,20 +17,20 @@ const questions: Question[] = [
   {
     question: "What was the exact time when Jiituu proposed Tiya?",
     options: [
-      "12:45 25 Aug 2024",
       "12:51 25 Aug 2024",
       "1:00 25 Aug 2024",
-      "12:30 25 Aug 2024"
+      "12:30 25 Aug 2024",
+      "12:45 25 Aug 2024",
     ],
-    correctAnswer: 1
+    correctAnswer: 0
   },
   {
     question: "Where was the 1st trip organized to?",
     options: [
-      "Goa",
-      "Shimla",
+      "Ayodhya",
+      "Kanpur",
       "Sonbhadra",
-      "Manali"
+      "Rajdhari waterfall"
     ],
     correctAnswer: 2
   },
@@ -47,10 +47,10 @@ const questions: Question[] = [
   {
     question: "Which subject Quiz was it Jiituu went to attempt while Tiya was leaving?",
     options: [
-      "CS101",
-      "PH101",
+      "CS0101",
+      "PHY101",
       "MA101",
-      "EE101"
+      "ME102"
     ],
     correctAnswer: 2
   },
@@ -67,10 +67,10 @@ const questions: Question[] = [
   {
     question: "What does Jiituu call her?",
     options: [
-      "Sweetheart",
+      "Saggie",
       "Tiya",
-      "Princess",
-      "Love"
+      "Tiyas",
+      "Sag"
     ],
     correctAnswer: 1
   }

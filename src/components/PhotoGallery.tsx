@@ -56,7 +56,7 @@ const photos = [
   // { id: 42, src: "42.jpg", caption: "" },
   // { id: 48, src: "48.jpg", caption: "" },
   // { id: 47, src: "47.jpg", caption: "" },
-  { id: 7, src: "7.jpg", caption: "An Aesthetic one" }, 
+  { id: 7, src: "55.jpg", caption: "An Aesthetic one" }, 
 
 ];
 
